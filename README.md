@@ -1,6 +1,6 @@
 # Ultimate-Blind-Boolean-SQL
 
-- Uses ffuf to automate Blind-based Boolean attacks on the server.
+- Uses [ffuf](https://github.com/ffuf/ffuf) to automate Blind-based Boolean attacks on the server.
 - Try this PortswiggerLab for demo: [Link](https://portswigger.net/web-security/sql-injection/blind/lab-conditional-responses)
 
 ## Methodology
